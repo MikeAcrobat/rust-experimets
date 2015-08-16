@@ -3,6 +3,9 @@ name = "project"
 version = "0.1.0"
 authors = ["Mikey"]
 
+[dependencies]
+rustc-serialize = "0.3"
+
 [dependencies.sdl2]
 git = "https://github.com/AngryLawyer/rust-sdl2"
 

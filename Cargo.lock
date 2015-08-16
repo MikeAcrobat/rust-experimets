@@ -3,6 +3,7 @@ name = "project"
 version = "0.1.0"
 dependencies = [
  "gl 0.0.12 (git+https://github.com/bjz/gl-rs)",
+ "rustc-serialize 0.3.15 (registry+https://github.com/rust-lang/crates.io-index)",
  "sdl2 0.8.0 (git+https://github.com/AngryLawyer/rust-sdl2)",
 ]
 

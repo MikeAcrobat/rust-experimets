@@ -1,0 +1,11 @@
+{
+    "window": {
+        "title": "Test Title",
+        "width": 800,
+        "height": 600
+    },
+    "gl": {
+        "major": 3,
+        "minor": 0
+    }
+}
